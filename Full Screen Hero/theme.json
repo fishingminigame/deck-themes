@@ -1,0 +1,11 @@
+{
+    "name": "Full Screen Hero",
+    "author": "seagrot",
+    "version": "v1.0",
+    "manifest_version": 8,
+    "target": "Home",
+    "description": "Fits the hero image to screen height.",
+    "inject": {
+        "shared.css": ["SP"]
+    }
+}

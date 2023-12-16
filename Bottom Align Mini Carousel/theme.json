@@ -1,0 +1,11 @@
+{
+    "name": "Bottom Align Mini Carousel",
+    "author": "seagrot",
+    "version": "v1.0",
+    "manifest_version": 8,
+    "target": "Home",
+    "description": "WYSIWYG.",
+    "inject": {
+        "shared.css": ["SP"]
+    }
+}
